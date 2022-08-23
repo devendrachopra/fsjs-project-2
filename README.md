@@ -13,7 +13,7 @@ Learned about CSS Display Flex, Inline Block. Also position: fixed and Setting u
 Run with live server in vs code extension 
 
 ## Deployed Link
-[FSJS-PROJECT-2](https://fsjs-dchopra-project-1.netlify.app/)
+[FSJS-PROJECT-2](https://fsja-dechopra-project-2.netlify.app/)
 
 ![alt text](./2.png)
 
